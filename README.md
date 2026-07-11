@@ -13,6 +13,8 @@
 
 *A modern web-based Centralized Bug Management System that streamlines software bug reporting, tracking, assignment, and resolution for software development teams.*
 
+### 🔗 [Live Demo](https://john9899cse.github.io/ERROR_NEST/)
+
 </div>
 
 ---
@@ -29,9 +31,9 @@ It enables seamless collaboration between **Admins**, **Project Managers**, **De
 
 # 🌐 Live Demo
 
-🚀 **Project Live Link**
+🔗 **[https://john9899cse.github.io/ERROR_NEST/](https://john9899cse.github.io/ERROR_NEST/)**
 
-https://john9899cse.github.io/ERROR_NEST/
+---
 
 # ✨ Key Features
 
@@ -334,4 +336,3 @@ If you found this project useful:
 **ERROR_NEST — Building Better Software Through Efficient Bug Management**
 
 </div>
-

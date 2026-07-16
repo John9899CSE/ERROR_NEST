@@ -13,7 +13,7 @@
 
 *A modern web-based Centralized Bug Management System that streamlines software bug reporting, tracking, assignment, and resolution for software development teams.*
 
-### 🔗 [Live Demo](https://johnforgex.github.io/ERROR_NEST/)
+### 🔗 [Live Demo] (https://johnforgex.github.io/ERROR_NEST/)
 
 </div>
 

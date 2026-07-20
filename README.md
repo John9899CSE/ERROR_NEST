@@ -31,7 +31,7 @@ It enables seamless collaboration between **Admins**, **Project Managers**, **De
 
 # 🌐 Live Demo
 
-🔗 **[https://john9899cse.github.io/ERROR_NEST/](https://john9899cse.github.io/ERROR_NEST/)**
+🔗 **[https://john9899cse.github.io/ERROR_NEST/](https://johnforgex.github.io/ERROR_NEST/)**
 
 ---
 
